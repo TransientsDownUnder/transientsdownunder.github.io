@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/transientsdownunder2024/precache-manifest.7471bc24c8c7028153083013f7b67219.js"
+  "/transientsdownunder2024/precache-manifest.dc8da47b8b5dea0337e4faf60270d570.js"
 );
 
 workbox.clientsClaim();
